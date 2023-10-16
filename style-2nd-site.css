@@ -1,0 +1,15 @@
+body{
+    color:aliceblue;
+    background-color: rgb(175, 161, 129);
+    font-family: "Monospace"
+
+  }
+  .image1{
+    width: 150px;
+  }
+  p{
+    text-align: right;
+  }
+  .right-side{
+    text-align: right;
+  }

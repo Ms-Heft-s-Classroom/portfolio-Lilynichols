@@ -1,0 +1,13 @@
+body{
+    color:aliceblue;
+    background-color: darkseagreen;
+    font-family: "Monospace"
+
+  }
+  hr{
+    color: aliceblue;
+  }
+  img{
+    width: 125px;
+    margin: 10px;
+  }
