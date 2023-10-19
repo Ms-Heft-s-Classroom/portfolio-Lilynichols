@@ -11,11 +11,11 @@ body{
     width: 125px;
     margin: 10px;
   }
-  *{
-    box-sizing: border-box;
+    a{
+    box-sizing:border-box;
     margin: 0;
     padding: 0%;
-    background-color: rgb(150, 127, 93);
+    background-color: rgb(255, 255, 255);
 
   }
   li,a button{

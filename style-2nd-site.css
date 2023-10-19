@@ -17,7 +17,7 @@ body{
   a{
     color: aliceblue;
   }
-  *{
+  li{
     box-sizing: border-box;
     margin: 0;
     padding: 0%;
@@ -54,5 +54,5 @@ text-decoration: none;
   }
   .nav_links li a:hover {
     transition: all 0.3 ease 0;
-color: aliceblue; 
+color: rgba(192, 149, 93, 0.288); 
   }
