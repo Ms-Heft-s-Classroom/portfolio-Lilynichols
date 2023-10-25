@@ -48,5 +48,8 @@ text-decoration: none;
   }
   .nav_links li a:hover{
     transition: all 0.3 ease 0;
-color: aliceblue;
+    color: aliceblue;
+  }
+ h2 {
+text-align: center;
   }
